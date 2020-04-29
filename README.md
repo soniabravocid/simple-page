@@ -1,4 +1,4 @@
-# simple-page-html
+# simple-page
 
 link to live site https://soniabravocid.github.io/simple-page-html/
 
